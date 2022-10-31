@@ -14,4 +14,4 @@ Just for presentation purpose.
 **Mobile(Pixel 5):**
 
 
-<img src="https://i.im.ge/2022/10/31/2Rg2Hp.img1-mob.png" width="320"><img src="https://i.im.ge/2022/10/31/2RgEpK.img2-mob.png" width="320"><img src="https://i.im.ge/2022/10/31/2RgCCF.mob-3img.jpg" width="320">
+<img src="https://i.im.ge/2022/10/31/2Rg2Hp.img1-mob.png" width="300"><img src="https://i.im.ge/2022/10/31/2RgEpK.img2-mob.png" width="300"><img src="https://i.im.ge/2022/10/31/2RgCCF.mob-3img.jpg" width="300">
